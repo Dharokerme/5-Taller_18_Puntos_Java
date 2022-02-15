@@ -1,0 +1,10 @@
+
+X
+java:S1854"6Remove this useless assignment to local variable "lt".(¤òªÿÿÿÿÿ8õÜ‚×ï/
+I
+java:S1481"'Remove this unused "lt" local variable.(¤òªÿÿÿÿÿ8„İ‚×ï/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ßÛéá8 ¤€×ï/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¼µ‡ûÿÿÿÿ8û„×ï/
+n	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(™Å¬³ùÿÿÿÿ8¯¤€×ï/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ê…ö½øÿÿÿÿ
